@@ -15,7 +15,7 @@
 * Accreditation - Support educational institutions with As.
 * Sales - Buy and sell products
 * Bots - Recruit and train human resources
-* Music - Automatically produce classical and other songs with a href="https://github.com/luciangreen/Music-Composer">Music Composer</a>.
+* Music - Automatically produce classical and other songs with <a href="https://github.com/luciangreen/Music-Composer">Music Composer</a>.
 * Copywriting - <a href="https://github.com/luciangreen/Philosophy/blob/master/paraphraser1.pl">Paraphrase</a>, use the AIDA or PAS formats,
 * Programming - Using Lucian's algorithms as starting points, write algorithms for business.
 * Essays - autowrite with <a href="https://github.com/luciangreen/Essay-Helper">Essay Helper</a> and <a href="https://github.com/luciangreen/Philosophy/blob/master/paraphraser1.pl">Paraphraser</a>.
