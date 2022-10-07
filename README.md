@@ -5,7 +5,7 @@
 * Run businesses with a Pedagogy master's (breason out the Pedagogy book, linked to in <a href="https://github.com/luciangreen/Time_Machine">Time Machine</a>).
 * <a href="https://github.com/luciangreen/Text-to-Breasonings">Breason out</a> 5*50 GL As (where an A has 80 breasonings) per product in the following list that you sell.
 * 5*50 GL As means 5 million GL breasonings.
-* The Education products need accreditation (5 by 50 As per day).
+* The Education products need accreditation (5 by 50 As per product).
 * More information will be added about how to automate these businesses, using Prolog on a Virtual Private Server, and you can help.
 * Enough As (5*50 As) takes care of additional pitch As needed for new people per product.
 
