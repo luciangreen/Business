@@ -30,5 +30,8 @@
 * Other departments (Meditation, Medicine, Computational English, Popology, Societology, Mathematics, Immortality) - Help with academia.
 * Computer Science (Teach Paraphraser, GL, Text to Breasonings, Essay Helper, Interp, Compiler, CAW, Program Finder, Font, etc.)
 * Make Websites - Use <a href="https://github.com/luciangreen/SSI">State Saving Interpreter Web Service</a> to write a low-code web-site.
+
+# Miscellany
+
 * Apps for Above
 * Advertise the Above, Go on Other Sites
