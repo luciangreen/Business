@@ -1,10 +1,11 @@
+
 # Making Money from Breasonings
 
 * By adding 50 meditators to `rcawpastea vps.txt` in <A href="https://github.com/luciangreen/Daily-Regimen">Daily Regimen</a> to get a daily mind reading "framework", you can run <a href="https://github.com/luciangreen/Algorithm-Writer-with-Lists">Grammar Logic</a> (GL) (details that form the content of high distinctions) and earn money by breasoning them out in the following way.
 
 * Run businesses with a Pedagogy master's (breason out the Pedagogy book, linked to in <a href="https://github.com/luciangreen/Time_Machine">Time Machine</a>).
 * <a href="https://github.com/luciangreen/Text-to-Breasonings">Breason out</a> 5*50 GL As (where an A has 80 breasonings) per product in the following list that you sell.
-* 5*50 GL As means 5 million GL breasonings.
+* 5*50 GL As means 5 million breasonings.
 * The Education products need accreditation (5 by 50 As per product and student and 250 breasonings per student per product per day).
 * More information will be added about how to automate these businesses, using Prolog on a Virtual Private Server, and you can help.
 * Enough As (5*50 As) takes care of additional pitch As needed for new people per product.
