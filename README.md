@@ -10,7 +10,7 @@
 
 # Products
 
-* Business Mentoring - (inspire with and reply to ideas from <a href="https://github.com/luciangreen/Lucian-Academy/tree/main/Books%2023%208%2022/ECONOMICS">Economics</a>).
+* Business Mentoring - (inspire with and reply to ideas from <a href="https://github.com/luciangreen/Lucian-Academy/tree/main/Books/ECONOMICS">Economics</a>).
 * Investing - Provide money to other projects
 * Marketing - Run advertisements
 * Accreditation - Support educational institutions with As.
